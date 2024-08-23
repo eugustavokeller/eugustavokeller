@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm Gustavo Keller, a passionate developer constan
 ### 🚀 What I'm working on:
 - **Backend:** Laravel + PHP
 - **Frontend:** Vue.js + JavaScript, Flutter + Dart
-- **Databases:** MySQL, MongoDB
-- **Cloud Services:** AWS, Azure, Google Cloud
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Cloud Services:** AWS, Microsoft Azure, Google Cloud
 - **Development Focus:** Web and Mobile Applications
 
 ### 🌱 What I'm currently learning:
