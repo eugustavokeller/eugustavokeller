@@ -28,6 +28,3 @@ I'm always open to collaborating on interesting projects. Whether it's contribut
 
 ### ⚡ Fun fact:
 When I'm not coding, you might find me exploring the latest tech trends, gaming, or experimenting with new programming languages.
-
-Thanks for stopping by! Let's connect and build something amazing together.
-
