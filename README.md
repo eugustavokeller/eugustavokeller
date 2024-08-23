@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**eugustavokeller/eugustavokeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Gustavo Keller, a passionate developer constantly exploring new technologies and improving my skills. 
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+- **Backend:** Laravel + PHP
+- **Frontend:** Vue.js + JavaScript, Flutter + Dart
+- **Databases:** MySQL, MongoDB
+- **Cloud Services:** AWS, Azure, Google Cloud
+- **Development Focus:** Web and Mobile Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm currently learning:
+- **Frontend:** React, Next.js
+- **Backend:** Go, Clojure, Elixir
+
+### 🤝 Let's collaborate!
+I'm always open to collaborating on interesting projects. Whether it's contributing to open-source, building something from scratch, or exploring innovative ideas, feel free to reach out!
+
+### 💬 Ask me about:
+- Full-stack development
+- Cloud architecture
+- Web and mobile development
+
+### 📫 How to reach me:
+- [Email](mailto:gustavo.lealtec@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-keller-59124097)
+- [Twitter | X](https://x.com/keller_gustavo)
+
+### ⚡ Fun fact:
+When I'm not coding, you might find me exploring the latest tech trends, gaming, or experimenting with new programming languages.
+
+Thanks for stopping by! Let's connect and build something amazing together.
+
