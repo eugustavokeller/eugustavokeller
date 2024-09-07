@@ -11,14 +11,14 @@ Welcome to my GitHub profile! I'm Gustavo Keller, a passionate developer constan
 
 ### 🌱 What I'm currently learning:
 - **Frontend:** React, Next.js
-- **Backend:** Go, Clojure, Elixir
+- **Backend:** Go, Java, Clojure, Elixir
 - **Additional:** MBA in Software Architecture, Solution Architecture, DevOps, and SRE
 
 ### 🤝 Let's collaborate!
 I'm always open to collaborating on interesting projects. Whether it's contributing to open-source, building something from scratch, or exploring innovative ideas, feel free to reach out!
 
 ### 💬 Ask me about:
-- Full-stack development
+- Full Cycle development
 - Cloud architecture
 - Web and mobile development
 
