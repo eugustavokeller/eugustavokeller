@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Gustavo Keller, a passionate developer constan
 
 ### 🌱 What I'm currently learning:
 - **Frontend:** React, Next.js
-- **Backend:** Go, Java, Clojure, Elixir
+- **Backend:** Go, Java, Rust
 - **Additional:** MBA in Software Architecture, Solution Architecture, DevOps, and SRE
 
 ### 🤝 Let's collaborate!
