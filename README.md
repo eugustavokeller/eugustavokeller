@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Gustavo Keller, a passionate developer constan
 ### 🌱 What I'm currently learning:
 - **Frontend:** React, Next.js
 - **Backend:** Go, Java, Rust
-- **Mobile:** Swift and Swift UI
+- **Mobile:** Swift, Kotlin
 - **Additional:** MBA in Software Architecture, Solution Architecture, DevOps, and SRE
 
 ### 🤝 Let's collaborate!
