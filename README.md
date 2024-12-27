@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Gustavo Keller, a developer constantly exploring new technologies and improving my skills. 
+Welcome to my GitHub profile! I'm Gustavo Keller, a developer who is constantly exploring new technologies and improving my skills. 
 
 ### 🚀 What I'm working on:
 - **Backend:** Laravel + PHP, NodeJS
