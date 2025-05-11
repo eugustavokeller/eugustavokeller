@@ -8,21 +8,62 @@
 
 ### 🚀 What I'm working on:
 
-- **Backend:** [Laravel](https://laravel.com/) + [PHP](https://www.php.net/), [NodeJS](https://nodejs.org/)  
-- **Frontend:** [Vue.js](https://vuejs.org/) + [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) + [TypeScript](https://www.typescriptlang.org/)  
-- **Mobile iOS / Android:** [Flutter](https://flutter.dev/) + [Dart](https://dart.dev/)  
-- **Databases:** [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/)  
-- **Cloud Services:** [AWS](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/), [Google Cloud](https://cloud.google.com/)  
-- **Development Focus:** Web and Mobile Applications  
+#### 🌐 Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+</p>
+
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+#### 📱 Mobile iOS / Android
+<p>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+#### ☁️ Cloud Services
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+</p>
 
 ---
 
 ### 🌱 What I'm currently learning:
 
-- **Frontend:** [React](https://react.dev/), [Next.js](https://nextjs.org/)  
-- **Backend:** [Go](https://golang.org/), [Java](https://www.java.com/), [Rust](https://www.rust-lang.org/)  
-- **Mobile:** [Swift](https://developer.apple.com/swift/), [Kotlin](https://kotlinlang.org/)  
-- **Additional:** MBA in Software Architecture, Solution Architecture, DevOps, and SRE  
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+</p>
+
+#### 🖥️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+</p>
+
+#### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</p>
 
 ---
 
