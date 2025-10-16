@@ -97,8 +97,8 @@ When I'm not coding, you might find me exploring the latest tech trends, gaming,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoKeller&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoKeller&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=eugustavokeller&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugustavokeller&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
